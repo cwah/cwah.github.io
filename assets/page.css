@@ -23,9 +23,9 @@ html{font-size:14px;line-height:1}
 
 
 @font-face {
-  font-family: 'Terminal Dosis';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Dosis Regular'), local('Dosis-Regular'), url(http://themes.googleusercontent.com/static/fonts/terminaldosis/v5/_IcvjW_kWHsIHjjUsLbdpLgyVwiGa0mHGEwuDt4msjE.woff) format('woff');
+  font-family: 'Dosis', sans-serif;
 }
  
+img.main {
+  border-radius: 50%;
+}

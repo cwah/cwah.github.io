@@ -276,10 +276,10 @@ br.clear{clear:both;display:block;overflow:hidden;visibility:hidden;width:0;heig
 .clearfix:before,.clearfix:after{display:table;content:"";zoom:1}
 .clearfix:after{clear:both}
 .bodyfont{font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#808080}
-.term{font-family:'Terminal Dosis',arial,sans-serif}
+.term{font-family:'Dosis'}
 .logofont{font-family:'orbitron'}
-.headingfont{font-family:"Terminal Dosis",arial,sans-serif;font-weight:900}
-h1,h2,h3,h4,h5,h6{font-family:"Terminal Dosis",arial,sans-serif;font-weight:900;font-weight:normal;color:#444}
+.headingfont{font-family:"Dosis";font-weight:900}
+h1,h2,h3,h4,h5,h6{font-family:"Dosis";font-weight:900;font-weight:normal;color:#444}
 .h1,h1{margin-bottom:10px;font-size:40px}
 .h2,h2{margin-bottom:10px;font-size:28px}
 .h3,h3{margin-bottom:10px;font-size:23px}
@@ -295,7 +295,7 @@ body,html{height:100%;background:#fff;font-family:'Helvetica Neue',Helvetica,Ari
 .headercontainer .container .logo img{max-width:100%}
 .headercontainer .container ul{margin:5px 0}
 .headercontainer .container ul li{display:block}
-.headercontainer .container ul li a{position:relative;cursor:pointer;display:block;padding:5px 0;font-weight:normal;font-family:'Terminal Dosis',arial,sans-serif;font-size:23px;color:#444;text-transform:uppercase}
+.headercontainer .container ul li a{position:relative;cursor:pointer;display:block;padding:5px 0;font-weight:normal;font-family:'Dosis',arial,sans-serif;font-size:23px;color:#444;text-transform:uppercase}
 .headercontainer .container ul li a .icon{position:absolute;top:9px;right:0;width:10px;height:15px;background:#ddd;border:1px solid rgba(0,0,0,0.15);border-top-color:rgba(0,0,0,0.3);border-bottom-color:rgba(0,0,0,0.1)}
 .headercontainer .container ul li a .text{padding-right:28px}
 .headercontainer .container ul li a:hover,.headercontainer .container ul li a:active,.headercontainer .container ul li a.active,.headercontainer .container ul li a.selected{color:#f86421;text-decoration:none}
@@ -338,7 +338,7 @@ body,html{height:100%;background:#fff;font-family:'Helvetica Neue',Helvetica,Ari
 .widecontainer .container .gallery .images .thumb{display:block;text-decoration:none;position:relative;width:110px;height:110px;overflow:hidden;float:left;margin:10px}
 .widecontainer .container .gallery .images .thumb img{width:110px}
 .widecontainer .container .gallery .images .thumb .overlay{position:absolute;top:0;left:0;width:220px;height:220px;background:rgba(255,255,255,0.2)}
-.widecontainer .container .gallery .images .thumb .overlay span{display:block;position:absolute;top:140px;right:30px;text-align:right;padding:6px 10px;background:#fff;text-shadow:0 1px 0 #ffffff;font-size:20px;max-width:160px;font-family:"Terminal Dosis",arial,sans-serif;font-weight:900}
+.widecontainer .container .gallery .images .thumb .overlay span{display:block;position:absolute;top:140px;right:30px;text-align:right;padding:6px 10px;background:#fff;text-shadow:0 1px 0 #ffffff;font-size:20px;max-width:160px;font-family:"Dosis";font-weight:900}
 .widecontainer .container .contact-form .input,.widecontainer .container .email-form .input{margin:4px 0;overflow:hidden}
 .widecontainer .container .contact-form .input label,.widecontainer .container .email-form .input label{width:90px;float:left;font-weight:bold;margin-top:10px;margin-bottom:5px}
 .widecontainer .container .contact-form .input input,.widecontainer .container .email-form .input input{width:200px}
